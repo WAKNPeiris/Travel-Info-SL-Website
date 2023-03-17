@@ -1,0 +1,45 @@
+body {
+background-color: lightcyan;
+}
+
+
+#sri{
+text-align:center;
+color: lightseagreen;
+margin-top: 20px;
+}
+
+.map,.guid,.advice,.books{
+background-color: rgb(4, 59, 66);
+border: rgb(145, 247, 247);
+border-radius: 2px;
+margin-top: 70px;
+text-align:left;
+padding: 10px 30px;
+
+
+}
+
+#welcome{
+    margin-top: 30px;
+    margin-left: 30px;
+
+}
+
+#video{
+
+    background-color: lavender;
+    text-align: center;
+}
+
+#v1,#v2{
+margin-bottom: 50px;
+
+}
+
+#footer{
+background-color: slategrey;
+color:thistle;
+
+
+}
